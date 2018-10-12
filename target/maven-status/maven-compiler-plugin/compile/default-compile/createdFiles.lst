@@ -1,0 +1,11 @@
+com\process\data\pojo\UserExample.class
+com\process\data\pojo\UserExample$Criterion.class
+com\process\data\pojo\User.class
+com\process\data\dao\UserSqlProvider.class
+com\process\data\ProcessDataApplication.class
+com\process\data\service\impl\UserServiceImpl.class
+com\process\data\pojo\UserExample$Criteria.class
+com\process\data\controller\UserController.class
+com\process\data\pojo\UserExample$GeneratedCriteria.class
+com\process\data\service\UserService.class
+com\process\data\dao\UserMapper.class
